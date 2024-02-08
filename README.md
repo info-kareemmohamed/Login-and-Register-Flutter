@@ -1,5 +1,6 @@
 
 I created this project to train myself on Firebase
+
 I used: Cubit and  Email validator and Authentication and firestore 
 
 
