@@ -1,16 +1,9 @@
-# lab
 
-A new Flutter project.
+I created this project to train myself on Firebase
+I used: Cubit and  Email validator and Authentication and firestore 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/info-kareemmohamed/Login-and-Register-Flutter/assets/133100486/e85eaa3a-a643-4feb-b803-c270d14c9908
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
