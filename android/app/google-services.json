@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128714119722",
+    "project_id": "temp-bd813",
+    "storage_bucket": "temp-bd813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128714119722:android:bca1d076ef4feb19b40153",
+        "android_client_info": {
+          "package_name": "com.example.lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZl3Y_UyAEGwYtIvZKdLubID88QTcdnLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
